@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Alexey, and experienced engineer, project manager, and boat nerd pivoting to a career in web development. This github is my personal portfolio, and contains all the portfolio-worth projects I've worked on. Note that I don't own most of my professional work, so it isn't featured here, but these projects are pretty representative of what I work on.
+
+- 🔭 I’m currently working on AWS certifications
+- 💬 Ask me about Next.js... and old sailing ships
+- 📫 How to reach me: [alexbachmanov@gmail.com]
+
 <!--
 **alexey-bachmanov/alexey-bachmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

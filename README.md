@@ -4,7 +4,7 @@ I'm Alexey, an experienced engineer, project manager, and boat nerd pivoting to 
 
 - 🔭 I’m currently working on AWS certifications
 - 💬 Ask me about Next.js, old sailing ships, and D&D 🧙‍♂️
-- 📫 How to reach me: [alexbachmanov@gmail.com]
+- 📫 How to reach me: [alexbachmanov@gmail.com](mailto:alexbachmanov@gmail.com)
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexeybachmanov/)
 
 ### Languages and tools

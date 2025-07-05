@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I'm Alexey, an experienced engineer, project manager, and boat nerd pivoting to a career in web development. This github is my personal portfolio, and contains all the portfolio-worth projects I've worked on. Note that I don't own most of my professional work, so it isn't featured here, but these projects are pretty representative of what I work on.
+I'm Alexey: an engineer and project manager with a decade of experience in mechanical systems and maritime technology, now pivoting to a career in software engineering. I'm pursuing my Bachelor's in Software Engineering at Arizona State University and growing my skillset to solve complex problems at the intersection of mechanical engineering and software development - things like CFD & FEA simulation, industrial automation, and embedded systems.
+This portfolio contains personal projects that highlight my technical growth, and my skills in frontend development. Professional work is excluded - I don't own the IP, but everything here demonstrated my approach to code: clean architecture, readability, maintainability, and robust testing. Let's work together to bridge the gap between software and hardware.
 
-- 🔭 I’m currently working on AWS certifications
+- 🔭 I’m currently working on my BS in Software Engineering at Arizona State University
 - 💬 Ask me about Next.js, old sailing ships, and D&D 🧙‍♂️
 - 📫 How to reach me: [alexbachmanov@gmail.com](mailto:alexbachmanov@gmail.com)
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexeybachmanov/)
@@ -17,6 +18,7 @@ Languages:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 Frontend Development:

@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-I'm Alexey: an engineer and project manager with a decade of experience in mechanical systems and maritime technology, now pivoting to a career in software engineering. I'm pursuing my Bachelor's in Software Engineering at Arizona State University and growing my skillset to solve complex problems at the intersection of mechanical engineering and software development - things like CFD & FEA simulation, industrial automation, and embedded systems.
-This portfolio contains personal projects that highlight my technical growth, and my skills in frontend development. Professional work is excluded - I don't own the IP, but everything here demonstrated my approach to code: clean architecture, readability, maintainability, and robust testing. Let's work together to bridge the gap between software and hardware.
+<p align="left">
+  I'm Alexey: an engineer and project manager with a decade of experience in mechanical systems and maritime technology, now pivoting to a career in software engineering. I'm pursuing my Bachelor's in Software Engineering at Arizona State University and growing my skillset to solve complex problems at the intersection of mechanical engineering and software development - things like CFD & FEA simulation, industrial automation, and embedded systems.
+</p>
+<p align="left">
+  This portfolio contains personal projects that highlight my technical growth, and my skills in frontend development. Professional work is excluded - I don't own the IP, but everything here demonstrated my approach to code: clean architecture, readability, maintainability, and robust testing. Let's work together to bridge the gap between software and hardware.
+</p>
 
 - 🔭 I’m currently working on my BS in Software Engineering at Arizona State University
 - 💬 Ask me about Next.js, old sailing ships, and D&D 🧙‍♂️
